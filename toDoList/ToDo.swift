@@ -8,12 +8,12 @@
 
 import UIKit
 
-    class ToDo{
-        
-        var name = ""
-        
-        var important = false
-
+class ToDo{
+    
+    var name = ""
+    
+    var important = false
+    
 }
 
 
